@@ -7,7 +7,23 @@
 3. What is the file size of the downloaded file? (Hint: you can find this in the network tab, or the response headers)
    779kB
 
-5. How long did it take to download?
+4. How long did it take to download?
    103 ms
 
+5. What was your User-Agent for the browser that made the request?
+  Mozilla
+  
+6. In the response header, what type of server did it come from?
+   GitHub.com
+  
+7. When was the file last modified?
+  Thu, 15 Sep 2022 22:44:30 GMT
+
+8. What was the Content-Type of the file?
+  application/json; charset=utf-8
+
+Navigate to the Initiator tab now and answer the last question
+
+9. Which function inside the initiating file made the request?
+    function(init)
  
